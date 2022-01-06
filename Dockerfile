@@ -7,7 +7,6 @@ RUN add wget
 
 
 
-bxbbhkjbdgfytubmndgjtuih
 
 
 
