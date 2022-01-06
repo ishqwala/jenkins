@@ -4,3 +4,12 @@ MAINTANINER NAG
 
 RUN add wget 
 
+
+
+
+varaprasad 
+
+
+jaffer  
+
+
